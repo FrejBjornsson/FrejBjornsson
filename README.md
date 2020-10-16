@@ -10,3 +10,10 @@ I'm Frej. I'm a student, creator and metal enthusiast in Gävle, Sweden.
 - 👯 I’m looking to collaborate on projects written in C#
 
 
+## Stats
+
+![FrejBjornsson's github stats](https://github-readme-stats.vercel.app/api?username=FrejBjornsson&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&layout=compact&theme=gruvbox)](https://github.com/FrejBjornsson)
+
+
