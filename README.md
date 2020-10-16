@@ -12,8 +12,8 @@ I'm Frej. I'm a student, creator and metal enthusiast in Gävle, Sweden.
 
 ## Stats
 
-![FrejBjornsson's github stats](https://github-readme-stats.vercel.app/api?username=FrejBjornsson&show_icons=true&theme=gruvbox)
+![FrejBjornsson's github stats](https://github-readme-stats.vercel.app/api?username=FrejBjornsson&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&layout=compact&theme=gruvbox)](https://github.com/FrejBjornsson)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&layout=compact&theme=nord)](https://github.com/FrejBjornsson)
 
 
