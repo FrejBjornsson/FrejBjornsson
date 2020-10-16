@@ -2,12 +2,12 @@
 
 # 👋 🌍
 
-I'm Frej. I'm a student, creator and metal enthusiast in Gävle, Sweden. 
+I'm Frej. I'm a student and creator from Gävle, Sweden. :
 
-- 🔭 I’m currently working on different school projects and SharpClock which is an open-source Windows Forms Application.
+- 🔭 I’m currently working on different school projects and SharpClock:clock3: which is an open-source Windows Forms Application.
 - 🌱 I’m currently learning C#, .NET and JS.
 - 📫 How to reach me: [Twitter](https://twitter.com/digitalismic19) or [LinkedIn](https://www.linkedin.com/in/frejbjornsson)
-- 👯 I’m looking to collaborate on projects written in C#
+- 👯 I’m looking to collaborate on projects written in C#, JS or HTML/CSS
 
 
 ## Stats
