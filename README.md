@@ -2,7 +2,7 @@
 
 # 👋 🌍
 
-I'm Frej. I'm a student and creator from Gävle, Sweden. :
+I'm Frej. I'm a student and creator from Gävle, Sweden.
 
 - 🔭 I’m currently working on different school projects and SharpClock:clock3: which is an open-source Windows Forms Application.
 - 🌱 I’m currently learning C#, .NET and JS.
