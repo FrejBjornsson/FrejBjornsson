@@ -3,10 +3,14 @@
 I'm Frej. I'm a student and creator from Gävle, Sweden.
 
 - 🔭 I’m currently working on different school projects and side projects.
-- 🌱 I’m currently learning C#, .NET, JS and SQL.
+- 🌱 I’m currently learning the .NET ecosystem. 
 - 📫 How to reach me: [Twitter](https://twitter.com/digitalismic19) or [LinkedIn](https://www.linkedin.com/in/frejbjornsson)
-- 👯 I’m looking to collaborate on projects written in C#, JS or HTML/CSS
+- 👯 I’m looking to collaborate on projects written in C#
 
+-Languages: C#, Python, JS  🌟
+-Frameworks: .NET core, ASP.NET Core, Blazor WASM
+-Database: MySQL
+-Cloud: Azure, Gcloud
 
 ## Stats
 
