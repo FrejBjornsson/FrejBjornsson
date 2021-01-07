@@ -8,7 +8,7 @@ I'm Frej. I'm a student and creator from Gävle, Sweden.
 - 👯 I’m looking to collaborate on projects written in C#
 
 - Languages: C#, Python, JS  🌟
-- Frameworks: .NET core, ASP.NET Core, Blazor WASM
+- Frameworks: .NET core, ASP.NET Core, Blazor WASM/SERVER
 - Database: MySQL
 - Cloud: Azure, Gcloud
 
