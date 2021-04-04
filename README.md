@@ -9,7 +9,7 @@ I'm Frej. I'm a student and creator from Gävle, Sweden.
 
 - Languages: C#, Python, JS  🌟
 - Frameworks: .NET core, ASP.NET Core, Blazor WASM/SERVER
-- Database: MySQL
+- Database: MySQL, SQLite, CockroachDB
 - Cloud: Azure, Gcloud
 
 ## Stats
