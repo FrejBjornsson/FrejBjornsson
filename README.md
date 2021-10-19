@@ -6,11 +6,13 @@ I'm Frej. I'm a student and creator from Gävle, Sweden.
 - 🌱 I’m currently learning the .NET ecosystem. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/frejbjornsson)
 - 👯 I’m looking to collaborate on projects written in C# (if interesting and i have time)
+- 🇸🇪 Translating open-source (and some closed-source) projects into Swedish
 
 - Languages: C#, Python, JS  🌟
 - Frameworks: .NET core, ASP.NET Core, EF Core, Blazor WASM/SERVER
 - Databases: MySQL, SQLite, MSSQL, CockroachDB
 - Cloud: Azure, Gcloud
+
 
 ## Stats
 
