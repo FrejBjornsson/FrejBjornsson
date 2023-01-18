@@ -15,6 +15,6 @@ I'm Frej. I'm a student and creator from Gävle, Sweden.
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Frej's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrejBjornsson&show_icons=true&theme=radical)
