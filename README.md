@@ -14,5 +14,5 @@ I'm Frej. I'm a developer and creator from Sweden.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrejBjornsson&repo=PyPassGen)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FrejBjornsson&repo=PyPassGen"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrejBjornsson"/>
