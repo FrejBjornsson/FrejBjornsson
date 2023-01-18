@@ -18,6 +18,6 @@ I'm Frej. I'm a student and creator from Gävle, Sweden.
 <a href="https://github.com/FrejBjornsson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&show_icons=true&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/FrejBjornsson">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrejBjornsson&show_icons=true&theme=radical)"/>
 </a>
