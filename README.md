@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-I'm Frej. I'm a student and creator from Gävle, Sweden.
+I'm Frej. I'm a developer and creator from Sweden.
 
-- 🔭 I’m currently working on different school projects and side projects.
-- 🌱 I’m currently learning the .NET ecosystem. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/frejbjornsson)
-- 👯 I’m looking to collaborate on projects written in C# (if interesting and i have time)
-- 🇸🇪 Translating open-source (and some closed-source) projects into Swedish
-
-- Main languages: C#, JS  🌟
-- Frameworks: .NET core, ASP.NET Core, EF Core, Blazor WASM/SERVER
-- Databases: MySQL, SQLite, MSSQL, CockroachDB
-- Cloud: Azure, Gcloud
-
+- 🔭 I’m currently working as a developer and this GitHub is for my side projects.
+- 📫 How to reach me: [E-mail](https://www.linkedin.com/in/frejbjornsson)
+- 👯 I’m looking to collaborate on projects written in C# or Python (Intermediate level)
+- 🇸🇪 Translating open-source projects from English/Danish/Norwegian into Swedish
 
 ## Stats
 <a href="https://github.com/FrejBjornsson">
