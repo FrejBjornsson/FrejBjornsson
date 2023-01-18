@@ -10,4 +10,4 @@ I'm Frej. I'm a developer and creator from Sweden.
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrejBjornsson&theme=radical&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=FrejBjornsson&show_icons=true&theme=radical&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrejBjornsson"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrejBjornsson&theme=radical&layout=compact"/>
