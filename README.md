@@ -19,4 +19,4 @@ I'm Frej. I'm a student and creator from Gävle, Sweden.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrejBjornsson&show_icons=true&theme=radical&layout=compact" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrejBjornsson&repo=PyPassGen)](https://github.com/FrejBjornsson/PyPassGen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrejBjornsson&repo=FrejBjornsson/PyPassGen)](https://github.com/FrejBjornsson/PyPassGen)
