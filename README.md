@@ -6,7 +6,7 @@ I'm Frej. I'm a developer and creator from Sweden.
 - 📫 How to reach me: [E-mail](mailto:frej.bjornsson@protonmail.com)
 - 🇸🇪 Translating open-source projects from English/Danish/Norwegian into Swedish
 
-Translations:
+Translations so far:
 
 [ThirdStats](https://github.com/devmount/third-stats)
 
