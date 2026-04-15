@@ -8,8 +8,8 @@ I'm Frej. I'm a developer and creator from Sweden.
 
 Translations so far:
 
-[ThirdStats](https://github.com/devmount/third-stats)
+[ThirdStats](https://github.com/devmount/third-stats) by [DevMount](https://github.com/devmount)
 
-[ScreenRuler](https://github.com/Bluegrams/ScreenRuler)
+[ScreenRuler](https://github.com/Bluegrams/ScreenRuler) by [Bluegrams](https://github.com/Bluegrams)
 
-[Vividl](https://github.com/Bluegrams/Vividl)
+[Vividl](https://github.com/Bluegrams/Vividl) by [Bluegrams](https://github.com/Bluegrams)
